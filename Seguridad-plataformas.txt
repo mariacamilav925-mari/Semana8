@@ -1,0 +1,10 @@
+pregunta8:
+respuesta
+
+
+touch seguridad-plataformas.txt
+echo "1. No exponer datos personales" > seguridad-plataformas.txt
+echo "2. Proteger credenciales" >> seguridad-plataformas.txt
+echo "3. Usar conexiones seguras" >> seguridad-plataformas.txt
+echo "4. Registrar accesos" >> seguridad-plataformas.txt
+echo "5. Limitar acceso a información sensible" >> seguridad-plataformas.txt
