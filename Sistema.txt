@@ -1,0 +1,11 @@
+pregunta7:
+respuesta
+
+
+uname -a
+whoami
+cd ..
+touch sistema.txt
+echo "Comando uname -a: Muestra la versión del núcleo del sistema, arquitectura del equipo, nombre de la máquina y detalles completos del sistema operativo." > sistema.txt
+echo "Comando whoami: Indica el nombre del usuario con el que estás iniciado en la sesión actual." >> sistema.txt
+echo "Es útil para administrar servidores porque permite verificar la versión del sistema, gestionar permisos de acceso, aplicar actualizaciones de seguridad adecuadas y detectar fallos de funcionamiento." >> sistema.txt
