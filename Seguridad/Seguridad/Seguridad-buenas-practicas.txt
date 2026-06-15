@@ -1,0 +1,5 @@
+pregunta5:
+respuesta:
+
+mkdir semana8
+cd semana8
